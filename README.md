@@ -1,16 +1,13 @@
-## Hi there 👋
+# 💫 About Me
+👋 **Hello there!**
+I'm **Bence**, a Google Engineer specializing in the architecture and implementation of **Cloud Landing Zones.** ☁️
 
-<!--
-**Hermanbence/hermanbence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Collaboration:** Passionate about side projects (internal & external) — let’s build something epic!
 
-Here are some ideas to get you started:
+# 💻 Tech Stack
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **Check out my** [certificates!](https://www.credly.com/users/bence-herman)
+
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bence-herman-763469169)
